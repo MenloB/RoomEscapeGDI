@@ -80,5 +80,14 @@
     <None Include="res\Grafikalab1.rc2">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="res\enhanced.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\bin00001.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\key1.bin">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

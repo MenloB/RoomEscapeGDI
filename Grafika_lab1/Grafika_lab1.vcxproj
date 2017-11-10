@@ -214,7 +214,10 @@
     <Image Include="res\userimages.bmp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="res\bin00001.bin" />
+    <None Include="res\enhanced.bin" />
     <None Include="res\Grafikalab1.rc2" />
+    <None Include="res\key1.bin" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
